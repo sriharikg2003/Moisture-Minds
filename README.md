@@ -28,11 +28,11 @@ pres - pressure
 4) We are predicting the soil moisture content for 20 days in March.
 
 
-Author : <br />
+# Author : <br />
 Cebajel Tanan    210010055@iitdh.ac.in <br />
 Srihari K G      210030035@iitdh.ac.in <br />
 Karthik Hegde    210010022@iitdh.ac.in <br />
 Divy Jain        210010015@iitdh.ac.in <br />
 
-Author Institute :
+# Author Institute :
 Indian Institute of Technology Dharwad
