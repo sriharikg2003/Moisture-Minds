@@ -20,3 +20,9 @@ temp - temperature
 humd - humidity
 
 pres - pressure
+
+
+1) Packages Required:-
+    pandas, numpy, matplotlib, sklearn, lightbgm, keras
+2) Open Model.ipynb and run all the cells.
+4) We are predicting the soil moisture content for 20 days in March.
