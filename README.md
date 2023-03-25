@@ -23,6 +23,16 @@ pres - pressure
 
 # Important Instructions
 1) Packages Required:-
-    pandas, numpy, matplotlib, sklearn, lightbgm, keras
+    pandas, numpy, matplotlib, sklearn, lightbgm, keras ,seaborn
 2) Open Model.ipynb and run all the cells.
 4) We are predicting the soil moisture content for 20 days in March.
+
+
+Author : 
+Cebajel Tanan    210010055@iitdh.ac.in
+Srihari K G      210030035@iitdh.ac.in
+Karthik Hegde    210010022@iitdh.ac.in
+Divy Jain        210010015@iitdh.ac.in
+
+Author Institute :
+Indian Institute of Technology Dharwad
